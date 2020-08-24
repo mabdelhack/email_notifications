@@ -11,4 +11,4 @@ After that, it is as simple as the two liner test_notif.py.
 
 I have been using this tool for a while and it has been making my life much easier as you can see from the sample of emails below.
 
-![Gmail Sample] (email_sample.png)
+![Gmail Sample](email_sample.png)
